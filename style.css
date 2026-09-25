@@ -1,0 +1,45 @@
+body
+{
+    background-colour: #eef4ff ;
+}
+
+h1
+{
+    color : #1d4ed8;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    text-align:center ;
+}
+
+p
+{
+    color:blue;
+}
+
+.Class-Par
+{
+    color:green;
+}
+
+#ID-Par
+{
+    color:Red;
+}
+
+.Main-Content
+{
+    background-color: white;
+}
+
+h2{
+    color: #1d4ed8
+}
+
+.Movie-Card
+{
+    max-width: 320px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #b8c2cc;
+    background-color: white;
+}
